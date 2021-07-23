@@ -5,5 +5,8 @@
 # @Author    :Amundsen Severus Rubeus Bjaaland
 
 
+from Building.Turtle import main
+
+
 if __name__ == "__main__":
-    run_code = 0
+    main()
